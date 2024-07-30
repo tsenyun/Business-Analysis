@@ -8,11 +8,11 @@ Effective sales analysis is critical for understanding the health of a business 
 
 ### 🛠️ How was the project executed?
 #### Data Cleaning and Preparation: 
-- Utilized Power Query to streamline and standardize data cleaning processes, ensuring accuracy and consistency. 
+- Utilized **Power Query** to streamline and standardize data cleaning processes, ensuring accuracy and consistency. 
 - Addressed missing values, standardized formats, and removed duplicates to create a reliable dataset. 
 
 #### Data Analysis and Visualization:
-- Implemented Power BI to create interactive dashboards and visualizations. 
+- Implemented **Power BI** to create interactive dashboards and visualizations. 
 - Analyzed key performance indicators (KPIs) such as sales revenue, product performance, and regional sales distribution.  
 - Developed insights into sales trends, seasonal variations, and customer preferences.
 
