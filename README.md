@@ -21,8 +21,19 @@ Effective sales analysis is critical for understanding the health of a business 
 - Identified high-performing products and regions, potential market opportunities, and areas for operational improvement. 
 
 ## 🔍 Key Insights and Outcomes
-- Sales Trends: Identified significant sales trends and seasonal patterns that influence business performance.
-- Product Performance: Highlighted top-performing products and those requiring strategic attention.
-- Regional Analysis: Analyzed regional sales distribution to target potential growth areas and optimize resource allocation.
-- Customer Preferences: Uncovered customer preferences and purchasing behavior, aiding in targeted marketing efforts.
+- Sales Trends:
+  
+  Identified significant sales trends and seasonal patterns that influence business performance.
+  
+- Product Performance:
+
+  Highlighted top-performing products and those requiring strategic attention.
+
+- Regional Analysis:
+
+  Analyzed regional sales distribution to target potential growth areas and optimize resource allocation.
+
+- Customer Preferences:
+
+  Uncovered customer preferences and purchasing behavior, aiding in targeted marketing efforts.
 
